@@ -1,0 +1,36 @@
+{
+	"name": "keywordparser",
+	"title": "jQuery Keyword Parser",
+	"description": "Simple keyword parser.",
+	"keywords": [
+		"jquery",
+		"keywordparser",
+		"plugins"
+	],
+	"version": "0.1.0",
+	"author": {
+		"name": "Mike Kornelson",
+		"email": "darkadept@durbn.net",
+		"url": "http://durbn.net"
+	},
+	"maintainers": [
+		{
+			"name": "Mike Kornelson",
+			"email": "darkadept@durbn.net",
+			"url": "http://durbn.net"
+		}
+	],
+	"licenses": [
+		{
+			"type": "GPL",
+			"url": "http://www.gnu.org/copyleft/gpl.html"
+		}
+	],
+	"bugs": "https://github.com/jquery-boilerplate/boilerplate/issues",
+	"homepage": "http://jqueryboilerplate.com",
+	"docs": "https://github.com/jquery-boilerplate/boilerplate#readme",
+	"download": "https://github.com/jquery-boilerplate/boilerplate/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.4"
+	}
+}
