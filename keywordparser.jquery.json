@@ -31,6 +31,7 @@
 	"docs": "https://github.com/jquery-boilerplate/boilerplate#readme",
 	"download": "https://github.com/jquery-boilerplate/boilerplate/archive/master.zip",
 	"dependencies": {
-		"jquery": ">=1.4"
+		"jquery": ">=1.4",
+		"rangy": "https://github.com/timdown/rangy.git#1.3"
 	}
 }
